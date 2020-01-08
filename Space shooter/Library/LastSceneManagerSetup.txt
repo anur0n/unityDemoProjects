@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Co-op_Mode.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1F1B7750-AF78-6713-1112-B8F317818D1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MovingPlatform.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="69" Column="37" />
+      <File FileName="Assets/Scripts/Coin.cs" Line="34" Column="14" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="23" Column="36" />
+      <File FileName="Assets/Scripts/MovingPlatform.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2.5D Platformer Pro" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MovingPlatform.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0d01382-e397-47cc-950a-e806b6352a3a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

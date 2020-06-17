@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ML-Agent-Demo-Sphere/Cube-ball scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
